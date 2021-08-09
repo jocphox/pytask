@@ -1,0 +1,1 @@
+"C:\Users\David Z Yang\PycharmProjects\pytask\venv\Scripts\python.exe" "C:/Users/David Z Yang/PycharmProjects/pytask/pytask.py"
